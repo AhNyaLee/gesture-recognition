@@ -1,0 +1,41 @@
+names:
+- '-'
+- a
+- b
+- ch
+- d
+- e
+- f
+- g
+- i
+- i-
+- ia
+- iu
+- k
+- kh
+- l
+- m
+- n
+- o
+- p
+- r
+- s
+- sh
+- t
+- ts
+- u
+- uh
+- v
+- y
+- z
+- zh
+nc: 30
+roboflow:
+  license: CC BY 4.0
+  project: slovo-hvkjg
+  url: https://universe.roboflow.com/ann-itrkh/slovo-hvkjg/dataset/4
+  version: 4
+  workspace: ann-itrkh
+test: C:\Users\Mi\Document\pythonProject2\slovo-4\test\images
+train: C:\Users\Mi\Document\pythonProject2\slovo-4\train\images
+val: C:\Users\Mi\Document\pythonProject2\slovo-4\valid\images
