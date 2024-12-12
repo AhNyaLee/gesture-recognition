@@ -1,7 +1,7 @@
 import cv2
 from ultralytics import YOLO
 
-model = YOLO('C:/Users/Mi/Document/pythonProject2/best.pt')
+model = YOLO('C:/Users/Mi/Document/pythonProject2/model-1.pt')
 
 class_names = model.names
 
